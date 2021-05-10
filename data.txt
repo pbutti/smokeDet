@@ -1,0 +1,9 @@
+lat, lon, angle, error
+37.29856, -122.17402, 225, 1.0
+37.30053, -122.27581, 154.7, 9.0
+37.23866, -122.24004, 337.1, 9.0
+37.38690, -122,29460, 163, 1.0
+
+lat, lon = degrees with decimal minutes
+angle = degrees clockwise from north
+error = +/- degrees (see the gray "corridor" on each reading? that's drawn by creating a polygon by projecting a line at (angle + error) and (angle - error))
