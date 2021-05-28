@@ -7,3 +7,8 @@ lat, lon, angle, error
 lat, lon = degrees with decimal minutes
 angle = degrees clockwise from north
 error = +/- degrees (see the gray "corridor" on each reading? that's drawn by creating a polygon by projecting a line at (angle + error) and (angle - error))
+
+FitVtx = (37.24396,-122.24281)
+
+Additional info
+https://docs.google.com/document/d/11OEUzAKzQGxXOWYBMI30iXfch-33bj6R2ZLV5LGfzOE/edit
